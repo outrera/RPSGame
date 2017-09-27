@@ -13,8 +13,8 @@ What needs to be worked on:
 Backend:
 1. Setting up launcher
 2. Make a main class to have:
-2a. Implement runnable
-2b. Make a game loop timer
+    1. Implement runnable
+    2. Make a game loop timer
 
 Frontend:
 1. Setting up GUI program
