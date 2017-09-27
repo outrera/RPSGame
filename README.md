@@ -9,11 +9,13 @@ Thanks, and good luck to all of us!
 |Rock-Paper-Scissors Game|
 --------------------------
 What needs to be worked on:
+
 Backend:
 1. Setting up launcher
 2. Make a main class to have:
-  1. Implement runnable
-  2. Game loop
+2a. Implement runnable
+2b. Make a game loop timer
+
 Frontend:
 1. Setting up GUI program
 2. Add buttons?
